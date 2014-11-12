@@ -55,5 +55,7 @@ setup(name='ikdisplay',
           'Axiom',
           'lxml',
           'twittytwister',
+          'pycrypto',
+          'pyasn1',
           ],
 )
